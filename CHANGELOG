@@ -1,0 +1,3 @@
+-- 02/27/2014 --
+Version Development Build 02-27-2014: First development build. Implements features that include bug-free algorithms and a working multi-windowed GUI.
+Version Development Build 02-27-2014_01: Implements features that include a WARNING dialog box, and the ability of outputing results inside the GUI panel.
