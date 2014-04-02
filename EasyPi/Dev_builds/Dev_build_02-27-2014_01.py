@@ -103,7 +103,7 @@ class consoleLogger(object):
 # use datetime to determine name of results.txt
 current_time = datetime.datetime.now()
 current_time = current_time.replace(microsecond = 0)
-resultFileName = "results" + ".txt"
+resultFileName = "results.txt"
 
 # main results code branch
 sys.stdout = consoleLogger(resultFileName)
