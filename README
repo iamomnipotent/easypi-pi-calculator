@@ -7,3 +7,5 @@ The program itself is written in pure Python with no additional libraries. Howev
 The program is currently in Development build 02-07-2014_01. I will keep working on it with the aim of making it more user-friendly, less buggy, and potentially more helpful to students, mathematicians and even computer scientists. Please refer to CHANGELOG for improvements and/or changes in each version.
 
 UPDATE: I'm currently working on a Tk GUI version of the EasyPi software as I think that multi-windowed GUI is kind of cumbersome and confusing to the users. There's currently no definite release date as this is the first time I'll be working with Tk. 
+
+UPDATE #2: I'm shifting focus from this project to an open source mobile game that my friend recently started developing. Check it out on my profile page or https://github.com/ag3/peach contributions are greatly appreciated! Contact me at iamomnipotent9885@hotmail.com
